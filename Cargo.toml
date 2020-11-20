@@ -1,0 +1,11 @@
+[package]
+name = "macd-rs"
+version = "0.1.0"
+authors = ["immortal infidel <immortal.infidel@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ta-common = { path = "../ta-common", version = "0.1.0" }
+ema-rs = { path = "../ema-rs", version = "0.1.0" }
