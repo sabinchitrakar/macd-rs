@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/macd-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/macd-rs)
+
 # Moving Average Convergence/Divergence (MACD)
 ```
 use macd_rs::MACD;
